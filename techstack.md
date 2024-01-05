@@ -40,7 +40,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [Or4cl3AI/cheatlayer-generatealandingpageforarealestatefirmUseunsplashf109558](https://github.com/Or4cl3AI/cheatlayer-generatealandingpageforarealestatefirmUseunsplashf109558)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|19<br/>Tools used|12/14/23 <br/>Report generated|
+|19<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
